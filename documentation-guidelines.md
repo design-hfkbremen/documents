@@ -69,10 +69,13 @@ Wer diesen Ordner abgibt, stimmt einer Veröffentlichung auf Instagram zu. Wer d
 ## 5. Datei-Namen 📁 
 Wie werden Ordner & Dateien benannt?
 
-| Was? | Naming |
+| | Naming |
 |---|---|
-| Projekt | `[Jahr]-[WS/SS]_[Vorname-Nachname]_[Projekt-oder-Seminartitel]_WEB/ARCHIV/INSTA` <br> <br> → `2627-WS_Jane-Doe_Einführung-in-bewegte-Plakate_WEB` <br> → `27-SS_John-Doe_Jumpy-posters_WEB` |
-| Abschlussarbeit | `[Jahr]_[WS/SS]_[BA/MA]_[Vorname-Nachname]_[Titel]_WEB/ARCHIV/INSTA` <br> <br> → `2627-WS_BA_Jane-Doe_Bewegung-als-Gestaltungsmethode_ARCHIV` |
+| **Projekt** | `[Jahr]-[WS/SS]_[Vorname-Nachname]_[Projekt-oder-Seminartitel]_WEB/ARCHIV/INSTA`|
+| | → `2627-WS_Jane-Doe_Einführung-in-bewegte-Plakate_WEB` | 
+| | → `27-SS_John-Doe_Jumpy-posters_WEB` |
+| **Abschlussarbeit** | `[Jahr]_[WS/SS]_[BA/MA]_[Vorname-Nachname]_[Titel]_WEB/ARCHIV/INSTA` | 
+| | → `2627-WS_BA_Jane-Doe_Bewegung-als-Gestaltungsmethode_ARCHIV` |
 
 📌 Alle Dateien innerhalb eines Ordners (Bilder, Videos, Texte) folgen dem gleichen Naming wie der Ordner selbst, z.B.
 
@@ -169,8 +172,11 @@ How are folders & files named?
 
 | | Naming |
 |---|---|
-| **Project** | `[Year]-[WS/SS]_[FirstName-LastName]_[Project-or-Seminar-Title]_WEB/ARCHIVE/INSTA` <br> <br> → `2627-WS_Jane-Doe_Introduction-to-Moving-Posters_WEB` <br> → `27-SS_John-Doe_Jumpy-posters_WEB` |
-| **Thesis** | `[Year]_[WS/SS]_[BA/MA]_[FirstName-LastName]_[Title]_WEB/ARCHIVE/INSTA` <br> <br> → `2627-WS_BA_Jane-Doe_Movement-as-a-Design-Method_ARCHIVE` |
+| **Project** | `[Year]-[WS/SS]_[FirstName-LastName]_[Project-or-Seminar-Title]_WEB/ARCHIVE/INSTA` |
+| | → `2627-WS_Jane-Doe_Introduction-to-Moving-Posters_WEB` |
+| | → `27-SS_John-Doe_Jumpy-posters_WEB` |
+| **Thesis** | `[Year]_[WS/SS]_[BA/MA]_[FirstName-LastName]_[Title]_WEB/ARCHIVE/INSTA` |
+| | → `2627-WS_BA_Jane-Doe_Movement-as-a-Design-Method_ARCHIVE` |
 
 📌 All files within a folder (images, videos, texts) follow the same naming as the folder itself, e.g.
 ```
