@@ -124,5 +124,7 @@ Tips:
 * `⌘ + Shift + 5` → **Record Entire Screen** or **Record Selected Portion**
 * Or open **QuickTime Player** → **File → New Screen Recording**
 
-<p align="center"> <img height="300" src="https://github.com/user-attachments/assets/c512580d-bed8-488b-a2c1-8d90dd0a80a9" /> </p>
+<p align="center"> 
+  <img height="300" alt="Nejdl_Katharina_Gesammelte-Woerter-1-2" src="https://github.com/user-attachments/assets/6261e1cc-d2f4-435e-8faa-3922518454ef" />
+</p>
 
