@@ -1,4 +1,4 @@
-[🇩🇪](https://github.com/design-hfkbremen/documents/blob/main/documentation.md#dokumentation-de) [🇬🇧](https://github.com/design-hfkbremen/documents/blob/main/documentation.md#documentation-en)
+[🇩🇪](https://github.com/design-hfkbremen/documents/blob/main/documentation-guidelines.md#dokumentation-de) [🇬🇧](https://github.com/design-hfkbremen/documents/blob/main/documentation-guidelines.md#dokumentation-en)
 
 # Dokumentation [DE]
 _Anleitung zur Datenabgabe für Website, Archiv & Instagram_\
