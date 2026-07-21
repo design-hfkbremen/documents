@@ -78,20 +78,20 @@ Wie werden Ordner & Dateien benannt?
 
 ```
 📁 27-SS_John-Doe_Jumpy-posters
- ├── 📁 WEB
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_01.jpg
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_02.jpg
- ├───── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
- ├── 📁 ARCHIV
- ├───── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIV_Druckdatei.pdf
- ├───── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIV_InDesign-verpackt.zip
- ├───── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIV_Code.zip
- ├── 📁 INSTA
- ├───── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
- ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
- ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
- └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
+├── 📁 WEB
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_01.jpg
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_02.jpg
+│   └── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
+├── 📁 ARCHIVE
+│   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Print-file.pdf
+│   ├── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_InDesign-packaged.zip
+│   └── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Code.zip
+├── 📁 INSTA
+│   ├── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
+│   └── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
+├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
+└── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
 ```
 
 ---
@@ -175,20 +175,20 @@ How are folders & files named?
 📌 All files within a folder (images, videos, texts) follow the same naming as the folder itself, e.g.
 ```
 📁 27-SS_John-Doe_Jumpy-posters
- ├── 📁 WEB
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_01.jpg
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_02.jpg
- ├───── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
- ├── 📁 ARCHIVE
- ├───── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Print-file.pdf
- ├───── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_InDesign-packaged.zip
- ├───── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Code.zip
- ├── 📁 INSTA
- ├───── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
- ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
- ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
- ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
- └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
+├── 📁 WEB
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_01.jpg
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_WEB_02.jpg
+│   └── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
+├── 📁 ARCHIVE
+│   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Print-file.pdf
+│   ├── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_InDesign-packaged.zip
+│   └── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Code.zip
+├── 📁 INSTA
+│   ├── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
+│   ├── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
+│   └── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
+├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
+└── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
 ```
 ---
 ## 6. Checklist ✅
