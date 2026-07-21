@@ -1,6 +1,6 @@
 [🇩🇪](https://github.com/design-hfkbremen/documents/blob/main/documentation-guidelines.md#dokumentation-de) [🇬🇧](https://github.com/design-hfkbremen/documents/blob/main/documentation-guidelines.md#dokumentation-en)
 
-# Dokumentation [DE]
+# Dokumentations-Guidelines [DE]
 _Anleitung zur Datenabgabe für Website, Archiv & Instagram_\
 _Stand: Juli 2026_
 
@@ -113,7 +113,7 @@ Checkliste vor der Abgabe:
 
 ---
 
-# Documentation [EN]
+# Documentation Guidelines [EN]
 _Guide for Data Submission for Website, Archive & Instagram_\
 _Status: July 2026_
 
