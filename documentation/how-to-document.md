@@ -2,7 +2,7 @@
 
 # Dokumentation [DE]
 _Anleitung zur Datenabgabe für Website, Archiv & Instagram_\
-_Stand: Juli 2026_\
+_Stand: Juli 2026_
 
 So sieht der fertige Abgabeordner aus:
 
