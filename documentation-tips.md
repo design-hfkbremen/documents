@@ -16,6 +16,9 @@ Tips:
 * Export at the correct dimensions and resolution.
 * Think about what you want to show besides the final result, e.g. the styleguide or concept for a CI or a detail of a poster. 
 
+<p align="center">
+  <img height="300" src="https://github.com/user-attachments/assets/9f167986-5e0e-42e0-9819-bf2d133c5ae5" />
+</p>
 
 ## Screenshot
 
