@@ -11,8 +11,8 @@ So sieht der fertige Abgabeordner aus:
  ├── 📁 WEB
  ├── 📁 ARCHIV
  ├── 📁 INSTA
- ├── 📄 INFO.txt
- └── 📄 TEXT.txt
+ ├── 📄 INFO.rtf
+ └── 📄 TEXT.rtf
 ```
 
 ---
@@ -23,7 +23,7 @@ Fragebogen und Projektbeschreibung als Textdatei.
 
 | Kategorie | Anforderungen |
 |---|---|
-| **Text** | `.txt / .md` · nicht in Ich-Form · max. 200 Zeichen · Eigennamen/Zitate kursiv |
+| **Text** | `.rtf / .md` · nicht in Ich-Form · max. 200 Zeichen · Eigennamen/Zitate kursiv |
 | **Info** | vollständig ausfüllen (Titel, Format, Material, Auflage etc.) |
 
 ---
@@ -62,7 +62,7 @@ Wer diesen Ordner abgibt, stimmt einer Veröffentlichung auf Instagram zu. Wer d
 | **Bilder** | `.jpg` oder `.png` · max. 5 MB · benannt nach Reihenfolge |
 | **Format wählen** | Square (1080×1080) · Landscape (1080×680) · Portrait (1080×1350) · oder Carousel (mehrere Slides) |
 | **Videos** | `.mp4` · 1920×1280 px · H.264-Export über Media Encoder · max. 10 MB |
-| **Insta-Text** | z.B. die selbe Beschreibung aus der `TEXT.txt`, plus passende Hashtags & Mentions |
+| **Insta-Text** | z.B. die selbe Beschreibung aus der `TEXT.rtf`, plus passende Hashtags & Mentions |
 
 ---
 
@@ -89,9 +89,9 @@ Wie werden Ordner & Dateien benannt?
  ├── 📁 INSTA
  ├───── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
  ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
- ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.txt
- ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.txt
- └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.txt
+ ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
+ ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
+ └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
 ```
 
 ---
@@ -99,8 +99,8 @@ Wie werden Ordner & Dateien benannt?
 ## 6. Checkliste ✅
 
 Checkliste vor der Abgabe:
-- [ ] INFO.txt ausgefüllt
-- [ ] TEXT.txt vorhanden
+- [ ] INFO.rtf ausgefüllt
+- [ ] TEXT.rtf vorhanden
 - [ ] Alle drei Unterordner vorhanden (WEB, ARCHIV, INSTA (optional))
 - [ ] Alle Ordner / Dateinamen folgen dem Namens-Schema (s. oben)
 
@@ -116,8 +116,8 @@ This is what the final submission folder looks like:
  ├── 📁 WEB
  ├── 📁 ARCHIVE
  ├── 📁 INSTA
- ├── 📄 INFO.txt
- └── 📄 TEXT.txt
+ ├── 📄 INFO.rtf
+ └── 📄 TEXT.rtf
 ```
 ---
 ## 1. INFO & TEXT 📝
@@ -125,7 +125,7 @@ Questionnaire and project description as a text file.
 
 | Category | Requirements |
 |---|---|
-| **Text** | `.txt / .md` · not written in first person · max. 200 characters · proper names/quotes in italics |
+| **Text** | `.rtf / .md` · not written in first person · max. 200 characters · proper names/quotes in italics |
 | **Info** | fill out completely (title, format, material, edition, etc.) |
 
 ---
@@ -161,7 +161,7 @@ Anyone who submits this folder agrees to publication on Instagram. Anyone who do
 | **Images** | `.jpg` or `.png` · max. 5 MB · named according to order |
 | **Choose format** | Square (1080×1080) · Landscape (1080×680) · Portrait (1080×1350) · or Carousel (multiple slides) |
 | **Videos** | `.mp4` · 1920×1280 px · H.264 export via Media Encoder · max. 10 MB |
-| **Insta text** | e.g. the same description from `TEXT.txt`, plus matching hashtags & mentions |
+| **Insta text** | e.g. the same description from `TEXT.rtf`, plus matching hashtags & mentions |
 
 ---
 ## 5. File Names 📁
@@ -186,14 +186,14 @@ How are folders & files named?
  ├── 📁 INSTA
  ├───── 🎬 27-SS_John-Doe_Jumpy-posters_INSTA_01.mp4
  ├───── 🖼️ 27-SS_John-Doe_Jumpy-posters_INSTA_02.jpg
- ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.txt
- ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.txt
- └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.txt
+ ├───── 📄 27-SS_John-Doe_Jumpy-posters_INSTA_TEXT.rtf
+ ├── 📄 27-SS_John-Doe_Jumpy-posters_INFO.rtf
+ └── 📄 27-SS_John-Doe_Jumpy-posters_TEXT.rtf
 ```
 ---
 ## 6. Checklist ✅
 Checklist before submission:
-- [ ] INFO.txt filled out
-- [ ] TEXT.txt present
+- [ ] INFO.rtf filled out
+- [ ] TEXT.rtf present
 - [ ] All three subfolders present (WEB, ARCHIVE, INSTA (optional))
 - [ ] All folder/file names follow the naming scheme (see above)
