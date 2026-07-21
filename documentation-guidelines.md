@@ -48,6 +48,7 @@ Langfristige Sammlung für spätere Publikationen/Drucke. Hier werden zusätzlic
 | **Druckdateien** | als `.pdf`, min. 300 dpi |
 | **Offene Dateien** | z.B. InDesign- oder Illustrator-Dateien, verpackt abgeben |
 | **Code** | z.B. Code bei Webprojekt |
+| **Presentationen** | z.B. Abschluss- oder Zwischenpräsentationen |
 | **Zusätzliche Bilder** | `.jpg / .png` · max. 10 MB · min. 2560×1440 px · max. 4500×3000 px |
 | **Zusätzliche Videos** | `.mp4` · max. 20 MB  |
 
@@ -87,6 +88,7 @@ Wie werden Ordner & Dateien benannt?
 │   └── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
 ├── 📁 ARCHIVE
 │   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Print-file.pdf
+│   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_final-presentation.pdf
 │   ├── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_InDesign-packaged.zip
 │   └── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Code.zip
 ├── 📁 INSTA
@@ -151,6 +153,7 @@ Long-term collection for later (print) publications. Here, **open files, print f
 | **Print files** | as `.pdf`, min. 300 dpi |
 | **Open files** | e.g. InDesign or Illustrator files, submitted as packaged files |
 | **Code** | e.g. code for web projects |
+| **Presentations** | e.g. final or interim presentations |
 | **Additional images** | `.jpg / .png` · max. 10 MB · min. 2560×1440 px · max. 4500×3000 px |
 | **Additional videos** | `.mp4` · max. 20 MB |
 
@@ -187,6 +190,7 @@ How are folders & files named?
 │   └── 🎬 27-SS_John-Doe_Jumpy-posters_WEB_03.mp4
 ├── 📁 ARCHIVE
 │   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Print-file.pdf
+│   ├── 📃 27-SS_John-Doe_Jumpy-posters_ARCHIVE_final-presentation.pdf
 │   ├── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_InDesign-packaged.zip
 │   └── 📦 27-SS_John-Doe_Jumpy-posters_ARCHIVE_Code.zip
 ├── 📁 INSTA
