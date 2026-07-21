@@ -4,7 +4,7 @@
 _Anleitung zur Datenabgabe für Website, Archiv & Instagram_\
 _Stand: Juli 2026_
 
-So sieht der fertige [Abgabeordner](https://github.com/design-hfkbremen/documents/tree/main/documentation-guidelines/00_WS_First-Name_%20Last-Name_Title) aus:
+So sieht der fertige [Abgabeordner](https://github.com/design-hfkbremen/documents/releases/download/1.0/00_WS_First-Name_Last-Name_Title.zip) aus:
 
 ```
 📁 [Jahr]_[WS/SS]_[BA/MA]_Vorname_Nachname_Titel
@@ -110,7 +110,7 @@ Checkliste vor der Abgabe:
 _Guide for Data Submission for Website, Archive & Instagram_\
 _Status: July 2026_
 
-This is what the final [submission folder](https://github.com/design-hfkbremen/documents/tree/main/documentation-guidelines/00_WS_First-Name_%20Last-Name_Title) looks like:
+This is what the final [submission folder](https://github.com/design-hfkbremen/documents/releases/download/1.0/00_WS_First-Name_Last-Name_Title.zip) looks like:
 ```
 📁 [Year]_[WS/SS]_[BA/MA]_First-Name_Last-Name_Title
  ├── 📁 WEB
