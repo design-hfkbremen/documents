@@ -14,7 +14,7 @@ So sieht der fertige [Abgabeordner](https://github.com/design-hfkbremen/document
  ├── 📄 INFO.rtf
  └── 📄 TEXT.rtf
 ```
-Siehe dieses Dokument an für Tipps, [wie du deine Projekte dokumentieren kannst](https://github.com/design-hfkbremen/documents/blob/main/documenting-tips.md) (z.B. Screenshot, Mockup, Foto, etc.).
+Siehe dieses Dokument an für Tipps, [wie du deine Projekte dokumentieren kannst](https://github.com/design-hfkbremen/documents/blob/main/documentation-tips.md) (z.B. Screenshot, Mockup, Foto, etc.).
 
 ---
 
@@ -105,7 +105,7 @@ Wie werden Ordner & Dateien benannt?
 ## 6. Checkliste ✅
 
 Checkliste vor der Abgabe:
-- [ ] Projekt angemessen dokumentieren – s. [_How to document your project_](https://github.com/design-hfkbremen/documents/blob/main/documenting-tips.md
+- [ ] Projekt angemessen dokumentieren – s. [_How to document your project_](https://github.com/design-hfkbremen/documents/blob/main/documentation-tips.md)
 - [ ] INFO.rtf ausgefüllt
 - [ ] TEXT.rtf vorhanden
 - [ ] Alle drei Unterordner vorhanden (WEB, ARCHIV, INSTA (optional))
@@ -127,7 +127,7 @@ This is what the final [submission folder](https://github.com/design-hfkbremen/d
  └── 📄 TEXT.rtf
 ```
 
-See this file for tips on [how to document your project](https://github.com/design-hfkbremen/documents/blob/main/documenting-tips.md) (e.g. screenshot, mockup, photo, etc.).
+See this file for tips on [how to document your project](https://github.com/design-hfkbremen/documents/blob/main/documentation-tips.md) (e.g. screenshot, mockup, photo, etc.).
 
 ---
 ## 1. INFO & TEXT 📝
@@ -208,7 +208,7 @@ How are folders & files named?
 ---
 ## 6. Checklist ✅
 Checklist before submission:
-- [ ] Document your project properly – see [_How to document your project_](https://github.com/design-hfkbremen/documents/blob/main/documenting-tips.md
+- [ ] Document your project properly – see [_How to document your project_](https://github.com/design-hfkbremen/documents/blob/main/documentation-tips.md)
 - [ ] INFO.rtf filled out
 - [ ] TEXT.rtf present
 - [ ] All three subfolders present (WEB, ARCHIVE, INSTA (optional))
